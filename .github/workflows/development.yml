@@ -4,6 +4,9 @@ on:
   push:
     branches-ignore: [ main ]
 
+env:
+  SEMVERBOT_VERSION: "1.1.0"
+
 jobs:
   build:
     name: pipeline
