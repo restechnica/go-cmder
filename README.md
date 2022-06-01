@@ -6,4 +6,4 @@
 [![goreportcard.com badge](https://goreportcard.com/badge/github.com/restechnica/go-cmder)](https://goreportcard.com/report/github.com/restechnica/go-cmder)
 [![img.shields.io MPL2 license badge](https://img.shields.io/github/license/restechnica/go-cmder)](./LICENSE)
 
-A CLI which automates semver versioning.
+A Go library to run commands in a test-friendly way.
