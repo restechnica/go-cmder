@@ -47,9 +47,6 @@ jobs:
       - name: check
         run: make check
 
-      - name: build
-        run: make build
-
       - name: test
         run: make test
 
