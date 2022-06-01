@@ -49,5 +49,4 @@ jobs:
 
       - name: get version
         run: |
-          sbot update version
           echo "current version: $(sbot get version)"
